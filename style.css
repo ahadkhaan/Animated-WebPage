@@ -119,18 +119,19 @@ img {
     }
 
     .center h1 {
-        font-size: 80px;
-        line-height: 70px;
+        font-size: 50px;
+        line-height: 50px;
+        font-weight: 700;
     }
 
     .center h1:nth-child(2),
     .center h1:nth-child(3) {
-        margin-left: 40px;
+        margin-left: 10px;
     }
 
     img {
-        width: 200px;
-        height: 300px;
+        width: 150px;
+        height: 250px;
         top: 80%;
         left: 40%;
         transform: translate(-50%, -50%);
